@@ -26,7 +26,7 @@ public class DepartmentControllerTest {
     {
         RestAssured.enableLoggingOfRequestAndResponseIfValidationFails();
         RestAssured.port = port;
-        RestAssured.basePath = "/department";
+        RestAssured.basePath = "/university/department";
     }
 
     @Test

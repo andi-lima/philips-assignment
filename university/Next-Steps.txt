@@ -1,0 +1,4 @@
+Next steps/improvements:
+1. Implement Authentication for the API.
+2. Improve exception handling.
+3. Improve test coverage.
